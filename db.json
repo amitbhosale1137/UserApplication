@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "37b0",
+      "department": "IT",
+      "name": "priya",
+      "mobile": "9999",
+      "email": "priya@test.com",
+      "gender": "female",
+      "doj": "2024-08-09",
+      "city": "Pune",
+      "salary": "2000",
+      "address": "cc",
+      "status": true
+    },
+    {
+      "id": "3c22",
+      "department": "Sale",
+      "name": "amit",
+      "mobile": "966",
+      "email": "amit@123",
+      "gender": "male",
+      "doj": "2024-08-15",
+      "city": "Mumbai",
+      "salary": "2",
+      "address": "vvvv",
+      "status": true
+    },
+    {
+      "id": "37c8",
+      "department": "Food",
+      "name": "Raa",
+      "mobile": "556",
+      "email": "8983489616",
+      "gender": "female",
+      "doj": "2024-07-29",
+      "city": "Goa",
+      "salary": "555",
+      "address": "",
+      "status": false
+    }
+  ]
+}
